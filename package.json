@@ -9,6 +9,6 @@
     "test": "jest --colors"
   },
   "dependencies": {
-    "jest": "^28.1.2"
+    "jest": "^28.1.3"
   }
 }
